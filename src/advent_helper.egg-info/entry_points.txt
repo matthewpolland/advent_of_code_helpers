@@ -1,0 +1,3 @@
+[console_scripts]
+advent_helper = advent_helper.generate
+
